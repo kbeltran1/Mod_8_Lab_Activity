@@ -1,1 +1,2 @@
 # Mod_8_Lab_Activity
+These problems consisted of using if, elif, and else statements to show if conditons were being met within a program. I used logical operators, conditional statements, nested conditions, and chained condtions within the programs. These programs help to present messages to showcase if certain conditions are being met, whether it be becasue numbers were inputed, whether certain condtions are being met, or in problem five if certain items are debuff not being present allow for tasks to be completed.
